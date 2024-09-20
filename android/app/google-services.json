@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446732876688",
+    "project_id": "apkcadastroproduto",
+    "storage_bucket": "apkcadastroproduto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446732876688:android:14e0c93b8795cd10501115",
+        "android_client_info": {
+          "package_name": "com.example.primeiro_apk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0E7i1pXhwlqbnV0WwK4gIIjd3vlrgCNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
